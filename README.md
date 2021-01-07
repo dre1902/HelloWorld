@@ -4,7 +4,7 @@ This is a simple python script which displays the text "Hello World" to the stan
 
 The purpose of this software is to demostrate to myself how to go about the development process.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/ZujOIMQrHHE)
 
 # Development Environment
 
